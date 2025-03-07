@@ -1,0 +1,14 @@
+{
+    "app": {
+        "title": "像素绘图工具",
+        "description": "一个简单易用的像素艺术创作工具"
+    },
+    "navigation": {
+        "file": "文件",
+        "editor": "编辑",
+        "view": "视图",
+        "tools": "工具",
+        "settings": "设置",
+        "help": "帮助"
+    }
+}
